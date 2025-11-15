@@ -6,8 +6,8 @@ A simple agent that searches ArXiv and answers questions using `smolagents`.
 
 1. **Clone the repo**:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/yooumarr/paperAgent.git
+   cd paperAgent
 ```
 
 2. **Install the dependencies**:
