@@ -1,4 +1,4 @@
-# SmolAgents + ArXiv Research Agent
+# ArXiv Research Agent
 
 A simple agent that searches ArXiv and answers questions using `smolagents`.
 
