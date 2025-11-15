@@ -1,0 +1,9 @@
+# Hugging Face
+.env
+*.pth
+*.bin
+*.safetensors
+
+# Python
+__pycache__
+*.pyc
