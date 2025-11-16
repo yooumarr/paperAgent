@@ -33,3 +33,23 @@ A simple agent that searches ArXiv and answers questions using `smolagents`.
 
 - Search ArXiv for the papers
 - Use smolagents to summarize the papers
+
+
+## Observability with Phoenix
+
+The agent includes integrated tracing with Phoenix by Arize AI, allowing you to:
+- Monitor agent execution flow in real-time
+- Track tool calls and LLM responses
+- Debug and optimize agent performance
+- Visualize multi-step reasoning chains
+
+Phoenix traces are automatically captured during agent execution.
+Visit http://localhost:6006/projects to see the model traces.
+
+## How It Works
+
+1. User queries for research papers on a specific topic
+2. Agent searches ArXiv database using custom tools
+3. AI processes and summarizes relevant papers
+4. Phoenix traces the entire workflow for observability
+5. User receives intelligent summary with paper references
